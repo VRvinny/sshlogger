@@ -1,5 +1,5 @@
 # sshlogger
-Ever wonder who's been trying to access your box on the cloud? Could it be the ***REMOVED***, the ***REMOVED*** or even your own government organisation trying to brute force your SSH credentials? I don't know you could figure that out but this simple script logs the entries of all SSH connections made to a box storing the usernames and the IP addresses used. 
+Ever wonder who's been trying to access your box on the cloud? Could it be the ***REMOVED***, the ***REMOVED*** or even your own government organisation trying to brute force your SSH credentials? I don't know how you could figure that out but this simple script logs the entries of all SSH connections made to a box storing the usernames and the IP addresses used. 
 
 Use the wordlist generated from real life attacks for your own pleasure. If you love data and like to plot cool things go ahead! If you use it maliciously and you get caught, that's on you.
 
