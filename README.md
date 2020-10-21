@@ -24,4 +24,4 @@ and entering in:
 
 This will update the text files everyday at 23:55.
 
-This repo will update with the files everyday too.Have fun! 
+This repo will update with the files everyday too. Have fun! 
