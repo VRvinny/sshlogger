@@ -6106,3 +6106,6 @@ gentoo
 hallintomies
 roberts
 srvadmin
+virgo
+nodeserver
+site03
