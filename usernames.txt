@@ -6109,3 +6109,8 @@ srvadmin
 virgo
 nodeserver
 site03
+chimistry
+macintosh
+laboratory
+unreal
+shipping
