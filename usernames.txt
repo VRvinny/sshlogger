@@ -6120,3 +6120,10 @@ logcheck-178.128.43.110
 novinhost
 lavanderia
 configure
+systest
+midgear
+uupc
+msos
+smos
+bdadmin
+TFS
