@@ -7519,3 +7519,8 @@ basware
 syspro
 nutcache
 netsuite
+elixir
+pharo
+assembly
+golang
+racket
