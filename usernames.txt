@@ -7836,3 +7836,13 @@ arul
 ftp_budzynski
 banjob
 csgoserver12
+mirror05
+mirror04
+mirror03
+mirror02
+mirror01
+jenkins1
+jix
+cycle
+microvolts
+db2server
