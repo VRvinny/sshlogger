@@ -7846,3 +7846,9 @@ jix
 cycle
 microvolts
 db2server
+hostadom
+philemon
+asecruc
+emf
+copy
+ambilogger
