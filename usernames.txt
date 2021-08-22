@@ -8688,3 +8688,13 @@ peer
 nologin
 oraprod
 mindy
+uno50
+evangeline
+odoo12
+redhatadmin
+carel
+emradmin
+eignet
+omv
+operador
+wrk123
