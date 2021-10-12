@@ -9754,3 +9754,17 @@ dwhite
 rppt
 smg
 mediatransfers
+kanms
+jyy
+hmr
+cjt
+README.md
+auth.log
+ipaddrs.txt
+log.data
+logger.sh
+update.data
+update.sh
+usernames.txt
+wti
+forex
