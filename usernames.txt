@@ -10704,3 +10704,9 @@ jyx
 yta
 pdk
 aimam
+kubeadm
+kwx
+yuanjiale
+sgk
+sambit
+ncadmin
