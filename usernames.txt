@@ -10710,3 +10710,4 @@ yuanjiale
 sgk
 sambit
 ncadmin
+ora_root
