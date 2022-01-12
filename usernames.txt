@@ -10711,3 +10711,7 @@ sgk
 sambit
 ncadmin
 ora_root
+name1
+name2
+fvqvc
+vuuau
