@@ -19527,3 +19527,6 @@ hikvision
 dnsekakf2$$
 jackett
 cns
+cpanelsolr
+zyj
+xueliang
